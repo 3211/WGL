@@ -1,0 +1,11 @@
+# World Gump Licence v1.0 — repository noise.
+# Copyright (c) 2026 The Open Gump Foundation and the Gumpworks contributors.
+# Licensed under the World Gump Licence v1.0. See LICENSE.
+
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/

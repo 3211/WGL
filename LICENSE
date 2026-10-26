@@ -1,0 +1,107 @@
+World Gump Licence (WGL), version 1.0
+
+Copyright (c) 2026 The Open Gump Foundation and the Gumpworks contributors.
+
+This licence covers the software, documentation, and assets that the Open Gump
+Foundation publishes under it. It is our own licence. It is not a rebrand of
+someone else's licence, and it is not legal advice.
+
+1. Definitions
+
+- "Work" means the software, documentation, or asset distributed under this
+  licence.
+- "You" means the person or organisation exercising rights under this licence.
+- "Source" means the preferred form of the Work for making modifications:
+  source code, markdown, configuration, and build scripts.
+- "Covered Work" means the Work or any work based on the Work.
+- "Distribute" means to share, publish, sublicense, or make the Work available
+  to anyone else.
+
+2. Grant of rights
+
+You may use, copy, modify, merge, publish, distribute, sublicense, and sell
+copies of the Work, provided you comply with this licence.
+
+You may use the Work commercially. You may run it on your own hardware. You may
+build a product on top of it. You do not need to ask permission.
+
+3. Conditions
+
+If you distribute the Work or a Covered Work, you must:
+
+1. Keep the notice. Include this licence and the copyright notice with the
+   distribution.
+2. Mark changes. State clearly what you changed, and when.
+3. Provide the Source. If you distribute a Covered Work in binary or hosted
+   form, make the corresponding Source available under this licence.
+4. Keep it open. If you distribute a Covered Work, the Covered Work as a whole
+   is licensed under this licence. You may add terms for your own additions,
+   but you may not add terms that restrict the rights this licence grants in
+   the Work.
+5. Do not misrepresent the origin. Do not claim that the Work was written by
+   you if it was not, and do not remove attribution notices.
+
+4. Patent grant
+
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent
+licence to make, use, sell, offer for sale, import, and otherwise run the Work,
+where that licence is necessary to use the Work as distributed.
+
+If you initiate patent litigation alleging that the Work infringes a patent,
+this patent grant ends for you on the date the claim is filed.
+
+5. Trademarks
+
+This licence does not grant permission to use the trade names, trademarks,
+service marks, or product names of the Open Gump Foundation or Gumpworks,
+except as required to describe the origin of the Work.
+
+You may say that your product "uses GAI" or "is built on GAUTH". You may not say
+that your product "is GAI" or "is GAUTH" if it is a fork or a derivative.
+
+6. Contributions
+
+Unless you state otherwise, any contribution you intentionally submit for
+inclusion in the Work is licensed under this licence, with no additional terms.
+
+7. Disclaimer of warranty
+
+The Work is provided as is, without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose, and non-infringement.
+
+The authors and contributors do not warrant that the Work will be
+uninterrupted, error-free, or secure.
+
+8. Limitation of liability
+
+In no event shall the authors, contributors, or the Open Gump Foundation be
+liable for any claim, damages, or other liability, whether in an action of
+contract, tort, or otherwise, arising from, out of, or in connection with the
+Work or the use of the Work.
+
+9. Termination
+
+Your rights under this licence terminate automatically if you breach it. If you
+cure the breach within 30 days of becoming aware of it, your rights are
+reinstated.
+
+The Open Gump Foundation may publish a new version of this licence. You may
+choose to use the Work under the version you received it under, or under any
+later version.
+
+10. Acceptance
+
+By using, copying, modifying, or distributing the Work, you accept this
+licence.
+
+11. How to apply
+
+To apply the World Gump Licence to your own work, include a copy of this
+licence and a notice like:
+
+    This work is licensed under the World Gump Licence, version 1.0.
+    See https://gumpworks.com/wgl for the full text.
+
+The Open Gump Foundation publishes the canonical text at
+https://gumpworks.com/wgl.
